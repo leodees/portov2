@@ -1,5 +1,0 @@
-Letakkan file CV PDF di folder ini dengan nama:
-
-  CV_Nama_Kamu.pdf
-
-File ini dipakai tombol "Unduh CV" di halaman Beranda.
